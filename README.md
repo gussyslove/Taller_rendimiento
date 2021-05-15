@@ -1,4 +1,4 @@
-# Comparativa de rendimiento de una funcion entre python y cython
+# Comparativa de rendimiento de un simulador de orbitas planetarias entre python y cython
 
 Para compilar el proyecto es necesario utilizar el siguiente comando:
 
