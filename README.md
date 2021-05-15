@@ -1,4 +1,4 @@
-# Comparativa de rendimiento de un simulador de orbitas planetarias entre python y cython
+# Comparativa entre python y cython del rendimiento de un simulador de orbitas planetarias para 1000 años
 
 Para compilar el proyecto es necesario utilizar el siguiente comando:
 
